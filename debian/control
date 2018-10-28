@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: ComfortAA.h
-Description: ComfortAA font for DisplayCore
+Description: ComfortAA
