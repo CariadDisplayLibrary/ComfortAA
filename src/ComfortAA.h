@@ -1,7 +1,7 @@
 #ifndef _COMFORTAA_H
 #define _COMFORTAA_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
     extern const uint8_t ComfortAA8[];
